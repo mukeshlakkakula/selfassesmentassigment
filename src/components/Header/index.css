@@ -73,4 +73,6 @@
     flex-wrap: wrap;
     overflow: auto;
   }
+  .modal_content{
+    width:100%;
 }
