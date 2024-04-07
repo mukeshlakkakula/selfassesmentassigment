@@ -1,0 +1,24 @@
+.whatInsideContainers {
+  border-style: solid;
+  padding: 20px;
+  border-radius: 10px;
+  border-width: 1px;
+  background-color: #1f8ea7;
+  color: #ffffff;
+}
+
+.whatFullContainer {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+  background-color: #e9ecef;
+
+  gap: 10px;
+}
+
+@media (max-width: 786px) {
+  .whatFullContainer {
+    display: flex;
+    flex-direction: column;
+  }
+}
