@@ -68,13 +68,6 @@ Where it helped me to know how much I have knowledge on react.js
 - "red"
 - "#696969"
 
-</details>
 
-- This is a personal project , Inspired from food Delivery applications .
 
-- In this application mainly contains of five Components (Home , login ,signup ,my Cart ,my Checkouts).
-- Every component have its own specality.
 
-- Backend also developed in the same project . Which is used to connect the server and to create API for the front end.
-
-- API's created for Login ,Signup , foodItems , my Checkouts .
